@@ -1,5 +1,5 @@
 # M-PESA-express-api-python-
-Integrating Daraja 2.0 mpesa express with your system, using python.
+Integrating Daraja 2.0 mpesa express api with your system, using python.
 
 if you are using a different python framework than flask or django you can still download the models.py file and import it in your code,
 and then initialize the stk push as described in the mpesa_express_api.py file. 
