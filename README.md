@@ -15,8 +15,3 @@ will be taken care of by the functions in their respective files.
 
 The two files contain webhooks that will receive confirmation responses when a transaction has been successfully.
 
-
-+++++++++++++++++++++++++++++++++++ HAPPY CODING! +++++++++++++++++++++++++
-****************** feel free to contact me at peterdariusk@gmail.com **********************
----------------Remember: Programming is not a career, its a lifestyle :) -------------
-____________________________________Peace________________________________
